@@ -1,7 +1,8 @@
 <p align="center">
- <a href="https://github.com/tharushiL27">
-  <img src="https://github.githubassets.com/images/modules/site/home-campaign/astrocat.png?width=400&format=webpll"/>
- </a>
+<a href="https://github.com/tharushiL27">
+  <img src="https://github.githubassets.com/images/modules/site/home-campaign/astrocat.png" width="400"/>
+</a>
+
 </p>
 
 
@@ -22,7 +23,7 @@
 
 Academic
 
-Student ID : IT21210174
+Student ID : IT21210174 <br/>
 Student Name : Tharushi Lakshika V.G.
 
 </p>
