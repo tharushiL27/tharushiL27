@@ -1,7 +1,6 @@
 <p align="center">
-<a href="https://github.com/tharushiL27">
-  <img src="https://github.githubassets.com/images/modules/site/home-campaign/astrocat.png" width="400"/>
-</a>
+
+
 
 </p>
 
@@ -40,19 +39,19 @@ Student Name : Tharushi Lakshika V.G.
 # 📊 GitHub Stats:
 <p align="center">
   <p align="center">
-    <a href="https://github.com/tharushiL27/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt=" tharushiL27’s streak" src="https://github-readme-streak-stats.herokuapp.com/?user= tharushiL27&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
+    <a href="https://github.com/tharushiL27/tharushiL27/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Tharushi's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tharushiL27&theme=black-ice&hide_border=true&stroke=0000&background=000000"/>
     </a>
   </p>
 </p>
 <p align="center">
   <p align="center">
-      <a href="https://github.com/ tharushiL27/github-readme-stats"><img alt="Tharushi Lakshika's Github Stats" src="https://github-readme-stats.vercel.app/api?username= tharushiL27&theme=react&hide_border=true&bg_color=000000&include_all_commits=false&count_private=false" /></a>
-  <a href="https://github.com/ tharushiL27/github-readme-stats"><img alt="Tharushi Lakshika's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username= tharushiL27&theme=react&hide_border=true&bg_color=000000&include_all_commits=true&count_private=true&layout=compact" /></a>
+      <a href="https://github.com/tharushiL27/tharushiL27/github-readme-stats"><img alt="Tharushi Lakshika's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tharushiL27&theme=react&hide_border=true&bg_color=000000&include_all_commits=false&count_private=false" /></a>
+  <a href="https://github.com/tharushiL27/tharushiL27/github-readme-stats"><img alt="Tharushi Lakshika's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharushiL27&theme=react&hide_border=true&bg_color=000000&include_all_commits=true&count_private=true&layout=compact" /></a>
   </p>
 </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id= tharushiL27&icon=8&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=tharushiL27&icon=8&color=1)](https://visitcount.itsvg.in)
 
 
